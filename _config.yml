@@ -56,7 +56,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # "Adane M Adane"
+  facebook         : "Adane M Adane"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -72,12 +72,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # "mamoadane2"
+  twitter          : "mamoadane2"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # "mamoadane8336"
+  youtube          : "mamoadane8336"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
